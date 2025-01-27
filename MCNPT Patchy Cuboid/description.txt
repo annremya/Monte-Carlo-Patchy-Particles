@@ -1,1 +1,3 @@
 
+MCNPT code for a Patchy Cuboid that has multiple patch patch interactions.
+Overlap check of the cuboid is done using Gilbert–Johnson–Keerthi (GJK) distance algorithm.
