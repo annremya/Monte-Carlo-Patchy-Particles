@@ -6,3 +6,5 @@ Three Initial configuration set ups are discussed:
   3. Lattice initial configuration using
     - Hexagonal close packed lattice
     - Square close packed lattice
+
+Comment out the MC Vol subroutine in equilibration and production subroutines to perform simulations in the NVT Ensemble.
