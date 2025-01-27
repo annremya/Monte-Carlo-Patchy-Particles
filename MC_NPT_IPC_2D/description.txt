@@ -1,0 +1,8 @@
+A repository of Fortran codes for Monte Carlo Simulations of Patchy Particles in the NPT Ensemble in 2D coordinates.
+
+Three Initial configuration set ups are discussed:
+  1. Random initial configuration
+  2. Restart from a previous configuration 
+  3. Lattice initial configuration using
+    - Hexagonal close packed lattice
+    - Square close packed lattice
