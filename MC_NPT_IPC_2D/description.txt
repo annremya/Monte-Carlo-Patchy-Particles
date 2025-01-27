@@ -1,4 +1,4 @@
-A repository of Fortran codes for Monte Carlo Simulations of Patchy Particles in the NPT Ensemble in 2D coordinates.
+A repository of Fortran codes for Monte Carlo Simulations of Inverse Patchy Colloids (IPCs) in the NPT Ensemble in 2D coordinates.
 
 Three Initial configuration set ups are discussed:
   1. Random initial configuration
